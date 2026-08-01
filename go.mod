@@ -1,4 +1,4 @@
-module github.com/holoplot/go-avahi
+module go.pkg.best/go-avahi
 
 go 1.25.0
 

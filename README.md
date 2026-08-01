@@ -10,13 +10,13 @@ This Go package provides bindings for DBus interfaces exposed by the Avahi daemo
 Install the package like this:
 
 ```
-go get https://github.com/holoplot/go-avahi
+go get go.pkg.best/go-avahi
 ```
 
 And then use it in your source code.
 
 ```
-import "github.com/holoplot/go-avahi"
+import "go.pkg.best/go-avahi"
 ```
 
 # Examples
@@ -33,7 +33,7 @@ import (
 	"log"
 
 	"github.com/godbus/dbus/v5"
-	"github.com/holoplot/go-avahi"
+	"go.pkg.best/go-avahi"
 )
 
 func main() {
@@ -143,7 +143,7 @@ import (
 	"log"
 
 	"github.com/godbus/dbus/v5"
-	"github.com/holoplot/go-avahi"
+	"go.pkg.best/go-avahi"
 )
 
 func main() {
